@@ -1,0 +1,25 @@
+body{
+    font-family: 'Schoolbell', cursive;
+}
+
+.nav-link {
+    font-size: 14px;
+    margin-top: 13px;
+}
+
+a.navbar-brand img {
+    width: 70px;
+}
+
+.jumbotron{
+    background-image: url(toddlers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding-top: 250px;
+}
+
+div.img {
+    height: 200px;
+}
