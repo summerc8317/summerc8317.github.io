@@ -12,6 +12,7 @@ a.navbar-brand img {
 }
 
 .jumbotron{
+    color:purple;
     background-image: url(toddlers.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -22,4 +23,9 @@ a.navbar-brand img {
 
 div.img {
     height: 200px;
+}
+
+h1 {
+    font-family: 'Gamja Flower', cursive;
+    font-size: 20px;
 }
